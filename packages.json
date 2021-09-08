@@ -18,5 +18,17 @@
   {
     "package": "OfflineGeocodeR",
     "url": "https://github.com/geomarker-io/OfflineGeocodeR"
+  },
+  {
+    "package": "s3",
+    "url": "https://github.com/geomarker-io/s3"
+  },
+  {
+    "package": "zctaDB",
+    "url": "https://github.com/geomarker-io/zctaDB"
+  },
+  {
+    "package": "addNlcdData",
+    "url": "https://github.com/geomarker-io/addNlcdData"
   }
 ]

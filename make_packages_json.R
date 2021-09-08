@@ -2,13 +2,9 @@ library(dplyr)
 
 df <- tibble::tibble(
   package = c("addPmData", "addNarrData",
-              "schwartzGeohashPM", "addNarrData", "OfflineGeocodeR"))
-
-
-
-
-              # ,"schwartzGeohashPM", "addNarrData", "OfflineGeocodeR",
-              # "s3", "zctaDB", "addNlcdData", "airPb", "ecat", "aiR",
+              "schwartzGeohashPM", "addNarrData", "OfflineGeocodeR",
+              "s3", "zctaDB", "addNlcdData"))
+              # "airPb", "ecat", "aiR",
               # "tidydlnm", "hamilton"))
 
 df  <- df %>%
