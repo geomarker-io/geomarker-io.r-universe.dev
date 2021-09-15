@@ -30,5 +30,25 @@
   {
     "package": "addNlcdData",
     "url": "https://github.com/geomarker-io/addNlcdData"
+  },
+  {
+    "package": "airPb",
+    "url": "https://github.com/geomarker-io/airPb"
+  },
+  {
+    "package": "ecat",
+    "url": "https://github.com/geomarker-io/ecat"
+  },
+  {
+    "package": "aiR",
+    "url": "https://github.com/geomarker-io/aiR"
+  },
+  {
+    "package": "tidydlnm",
+    "url": "https://github.com/geomarker-io/tidydlnm"
+  },
+  {
+    "package": "hamilton",
+    "url": "https://github.com/geomarker-io/hamilton"
   }
 ]
