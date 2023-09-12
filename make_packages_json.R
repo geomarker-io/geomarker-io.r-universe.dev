@@ -5,7 +5,8 @@ df <- tibble::tibble(
               "schwartzGeohashPM", "addNarrData", "OfflineGeocodeR",
               "s3", "zctaDB", "addNlcdData",
               "airPb", "ecat", "aiR",
-              "tidydlnm", "hamilton"))
+              "tidydlnm", "hamilton", 
+             "parcel", "cincy", "codec"))
 
 df  <- df %>%
   mutate(url = glue::glue("https://github.com/geomarker-io/{package}"))
