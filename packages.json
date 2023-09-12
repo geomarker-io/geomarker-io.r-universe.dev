@@ -50,5 +50,17 @@
   {
     "package": "hamilton",
     "url": "https://github.com/geomarker-io/hamilton"
+  },
+  {
+    "package": "parcel",
+    "url": "https://github.com/geomarker-io/parcel"
+  },
+  {
+    "package": "cincy",
+    "url": "https://github.com/geomarker-io/cincy"
+  },
+  {
+    "package": "codec",
+    "url": "https://github.com/geomarker-io/codec"
   }
 ]
