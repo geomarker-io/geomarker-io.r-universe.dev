@@ -1,66 +1,18 @@
 [
   {
-    "package": "addPmData",
-    "url": "https://github.com/geomarker-io/addPmData"
-  },
-  {
-    "package": "addNarrData",
-    "url": "https://github.com/geomarker-io/addNarrData"
-  },
-  {
-    "package": "schwartzGeohashPM",
-    "url": "https://github.com/geomarker-io/schwartzGeohashPM"
-  },
-  {
-    "package": "addNarrData",
-    "url": "https://github.com/geomarker-io/addNarrData"
-  },
-  {
-    "package": "OfflineGeocodeR",
-    "url": "https://github.com/geomarker-io/OfflineGeocodeR"
-  },
-  {
-    "package": "s3",
-    "url": "https://github.com/geomarker-io/s3"
-  },
-  {
-    "package": "zctaDB",
-    "url": "https://github.com/geomarker-io/zctaDB"
-  },
-  {
-    "package": "addNlcdData",
-    "url": "https://github.com/geomarker-io/addNlcdData"
-  },
-  {
-    "package": "airPb",
-    "url": "https://github.com/geomarker-io/airPb"
-  },
-  {
-    "package": "ecat",
-    "url": "https://github.com/geomarker-io/ecat"
-  },
-  {
-    "package": "aiR",
-    "url": "https://github.com/geomarker-io/aiR"
-  },
-  {
-    "package": "tidydlnm",
-    "url": "https://github.com/geomarker-io/tidydlnm"
-  },
-  {
-    "package": "hamilton",
-    "url": "https://github.com/geomarker-io/hamilton"
-  },
-  {
-    "package": "parcel",
-    "url": "https://github.com/geomarker-io/parcel"
-  },
-  {
-    "package": "cincy",
-    "url": "https://github.com/geomarker-io/cincy"
+    "package": "appc",
+    "url": "https://github.com/geomarker-io/appc"
   },
   {
     "package": "codec",
     "url": "https://github.com/geomarker-io/codec"
+  },
+  {
+    "package": "addr",
+    "url": "https://github.com/geomarker-io/addr"
+  },
+  {
+    "package": "cincy",
+    "url": "https://github.com/geomarker-io/cincy"
   }
 ]
