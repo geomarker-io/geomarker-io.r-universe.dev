@@ -1,7 +1,8 @@
 [
   {
     "package": "appc",
-    "url": "https://github.com/geomarker-io/appc"
+    "url": "https://github.com/geomarker-io/appc",
+    "branch": "*release"
   },
   {
     "package": "codec",
