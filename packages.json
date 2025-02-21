@@ -6,14 +6,18 @@
   },
   {
     "package": "codec",
-    "url": "https://github.com/geomarker-io/codec"
+    "url": "https://github.com/geomarker-io/codec",
+    "branch": "*release"
+
   },
   {
     "package": "addr",
-    "url": "https://github.com/geomarker-io/addr"
+    "url": "https://github.com/geomarker-io/addr",
+    "branch": "*release"
   },
   {
     "package": "cincy",
-    "url": "https://github.com/geomarker-io/cincy"
+    "url": "https://github.com/geomarker-io/cincy",
+    "branch": "*release"
   }
 ]
